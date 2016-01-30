@@ -1,0 +1,4 @@
+a PHRASE Kobe Bryant
+b TITLE Obama
+c TITLE Trump
+ADD a b c
